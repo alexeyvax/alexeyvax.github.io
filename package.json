@@ -1,0 +1,10 @@
+{
+  "name": "main-page",
+  "version": "1.0.0",
+  "description": "`Alexeyvax's page",
+  "scripts": {},
+  "author": "Oleksii Vakhrushev oleksii.vakhrushev@gmail.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
