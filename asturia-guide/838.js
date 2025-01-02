@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkasturia_pages=self.webpackChunkasturia_pages||[]).push([[838],{838:t=>{t.exports=JSON.parse('{"MainTitle":"Audio guide to Asturias","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please write the email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
