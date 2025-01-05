@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkasturia_pages=self.webpackChunkasturia_pages||[]).push([[793],{1793:e=>{e.exports=JSON.parse('{"MainTitle":"Аудиогид по Астурии","LogoAltText":"Логотип","PhotosTitle":"Фотографии"}')}}]);

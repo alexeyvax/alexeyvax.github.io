@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkasturia_pages=self.webpackChunkasturia_pages||[]).push([[287],{3287:s=>{s.exports=JSON.parse('{"MainTitle":"Audio guide to Asturias","LogoAltText":"Logo","PhotosTitle":"Photos"}')}}]);
