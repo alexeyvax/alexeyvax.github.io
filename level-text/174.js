@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadapt_text=self.webpackChunkadapt_text||[]).push([[174],{174:t=>{t.exports=JSON.parse('{"MainTitle":"Easy Practice","LogoAltText":"Logo"}')}}]);
