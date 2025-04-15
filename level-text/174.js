@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkadapt_text=self.webpackChunkadapt_text||[]).push([[174],{174:t=>{t.exports=JSON.parse('{"MainTitle":"Easy Practice","LogoAltText":"Logo"}')}}]);
+"use strict";(self.webpackChunklevel_text=self.webpackChunklevel_text||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Level Text","LogoAltText":"Logo"}')}}]);
