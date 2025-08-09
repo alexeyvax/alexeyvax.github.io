@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoviedo_guide=self.webpackChunkoviedo_guide||[]).push([[838],{838:e=>{e.exports=JSON.parse('{"MainTitle":"Oviedo Guide","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please write the email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
