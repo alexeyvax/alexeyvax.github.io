@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgijon_guide=self.webpackChunkgijon_guide||[]).push([[838],{838:e=>{e.exports=JSON.parse('{"MainTitle":"Gijon. Self-Guided Routes","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please write the email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
