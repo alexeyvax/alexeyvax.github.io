@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgijon_guide=self.webpackChunkgijon_guide||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Gijon Guide","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please send an email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
