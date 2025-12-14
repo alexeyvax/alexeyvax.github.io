@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmadrid_guide=self.webpackChunkmadrid_guide||[]).push([[838],{838:e=>{e.exports=JSON.parse('{"MainTitle":"Madrid. Self-Guided Routes","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please write the email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
