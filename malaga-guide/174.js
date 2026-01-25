@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmalaga_guide=self.webpackChunkmalaga_guide||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Malaga. Walking Guide","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please send an email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);

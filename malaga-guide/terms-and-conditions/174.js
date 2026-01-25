@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmalaga_guide_tc=self.webpackChunkmalaga_guide_tc||[]).push([[174],{174:a=>{a.exports=JSON.parse('{"MainTitle":"Málaga. Walking Guide","LogoAltText":"Logo"}')}}]);
