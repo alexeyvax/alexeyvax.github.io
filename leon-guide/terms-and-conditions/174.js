@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkleon_guide_tc=self.webpackChunkleon_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"León Guide","LogoAltText":"Logo"}')}}]);
+"use strict";(self.webpackChunkleon_guide_tc=self.webpackChunkleon_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"{city} Audio Guide & Tours","LogoAltText":"Logo"}')}}]);

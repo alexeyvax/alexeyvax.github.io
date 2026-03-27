@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkmadrid_guide_tc=self.webpackChunkmadrid_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Madrid Guide","LogoAltText":"Logo"}')}}]);
+"use strict";(self.webpackChunkmadrid_guide_tc=self.webpackChunkmadrid_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"{city} Audio Guide & Tours","LogoAltText":"Logo"}')}}]);

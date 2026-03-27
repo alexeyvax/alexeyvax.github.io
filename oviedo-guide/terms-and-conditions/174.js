@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkoviedo_guide_tc=self.webpackChunkoviedo_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Oviedo. Walking Guide","LogoAltText":"Logo"}')}}]);
+"use strict";(self.webpackChunkoviedo_guide_tc=self.webpackChunkoviedo_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"{city} Audio Guide & Tours","LogoAltText":"Logo"}')}}]);

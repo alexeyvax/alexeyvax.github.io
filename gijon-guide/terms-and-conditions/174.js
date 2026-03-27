@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkgijon_guide_tc=self.webpackChunkgijon_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"Gijon Guide","LogoAltText":"Logo"}')}}]);
+"use strict";(self.webpackChunkgijon_guide_tc=self.webpackChunkgijon_guide_tc||[]).push([[174],{174:e=>{e.exports=JSON.parse('{"MainTitle":"{city} Audio Guide & Tours","LogoAltText":"Logo"}')}}]);
