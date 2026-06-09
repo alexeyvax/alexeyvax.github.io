@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbarcelona_guide=self.webpackChunkbarcelona_guide||[]).push([[174],{174(e){e.exports=JSON.parse('{"MainTitle":"{city} Audio Guide & Tours","LogoAltText":"Logo","DescriptionTitle":"Description","ContactUsTitle":"Contacts","ContactUsHelperText":"To contact us, please send an email to","TermsAndConditionsTitle":"Terms & Conditions"}')}}]);
