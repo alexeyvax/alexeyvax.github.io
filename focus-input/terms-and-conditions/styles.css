@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: dark;
+  --background: #020818;
+  --surface: rgba(7, 24, 64, 0.82);
+  --border: rgba(111, 174, 255, 0.26);
+  --primary: #27d7ff;
+  --text: #f7f9ff;
+  --muted: #b4c7ea;
+  --shadow: 0 1.75rem 5rem rgba(0, 5, 24, 0.5);
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 78% 8%, rgba(20, 104, 255, 0.28), transparent 30rem),
+    radial-gradient(circle at 10% 34%, rgba(0, 207, 255, 0.12), transparent 26rem),
+    linear-gradient(145deg, #020818 0%, #061a49 48%, #02081b 100%);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+main {
+  width: min(calc(100% - 3rem), 58rem);
+  margin: 3rem auto;
+  padding: clamp(2rem, 6vw, 4.5rem);
+  border: 0.0625rem solid var(--border);
+  border-radius: 2rem;
+  background: linear-gradient(155deg, rgba(10, 38, 94, 0.78), var(--surface));
+  box-shadow: var(--shadow);
+}
+
+h1,
+h2 {
+  color: var(--text);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  text-wrap: pretty;
+}
+
+h1 {
+  margin: 0 0 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 0.0625rem solid var(--border);
+  font-size: clamp(2.45rem, 7vw, 4rem);
+  font-weight: 760;
+}
+
+h2 {
+  margin: 3rem 0 0.9rem;
+  color: var(--primary);
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+  font-weight: 720;
+}
+
+p {
+  max-width: 48rem;
+  margin: 0 0 1rem;
+  color: var(--muted);
+}
+
+ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.35rem;
+  color: var(--muted);
+}
+
+li {
+  margin-bottom: 0.55rem;
+  padding-left: 0.25rem;
+}
+
+li::marker,
+strong {
+  color: var(--primary);
+}
+
+strong {
+  font-weight: 750;
+}
+
+code {
+  padding: 0.12rem 0.35rem;
+  border: 0.0625rem solid var(--border);
+  border-radius: 0.35rem;
+  background: rgba(2, 8, 24, 0.55);
+  color: var(--text);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.9em;
+}
+
+a {
+  color: var(--primary);
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: 0.2rem;
+}
+
+a:hover {
+  color: #8beaff;
+}
+
+a:focus-visible {
+  outline: 0.1875rem solid var(--primary);
+  outline-offset: 0.25rem;
+}
+
+@media (max-width: 40rem) {
+  body {
+    font-size: 0.95rem;
+  }
+
+  main {
+    width: min(calc(100% - 1.25rem), 58rem);
+    margin: 0.625rem auto;
+    padding: 2rem 1.25rem 2.75rem;
+    border-radius: 1.35rem;
+  }
+
+  h2 {
+    margin-top: 2.4rem;
+  }
+}
